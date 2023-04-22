@@ -1,0 +1,32 @@
+
+#div1 {
+    color: rgb(0, 0, 169);
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+  }
+  
+
+#div2 {
+    color: rgb(0, 0, 110);
+    font-family:Georgia, 'Times New Roman', Times, serif
+  }
+
+#div3{
+    background-color: cornsilk;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 10px solid #050148;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+
+ul{
+    text-align: left;
+    color: #050148;
+    
+  }
+
+
+  
+  
+  
